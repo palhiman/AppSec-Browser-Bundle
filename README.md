@@ -86,9 +86,6 @@ Help & Support
 ====
 https://plus.google.com/communities/112659098704841478936/
 
-Email
-====
-stebbproject@gmail.com
 
 Website
 ====
