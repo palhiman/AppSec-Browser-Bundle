@@ -1,11 +1,5 @@
 AppSec Browser Bundle
 =====
-
-<br>
-
-<img src="https://lh5.googleusercontent.com/-vXbZPcDc5mxhJOZW71t5ALskhmt8wJkUVKaSzfdibk=w276-h207-p-no" width="300px;" height="225px"; align="right" >
-
-
 The OWASP AppSec Browser Bundle is an open source Linux based penetration testing browser bundle built over Mozilla Firefox. It comes pre-configured with security tools for spidering, advanced web searching, fingerprinting, anonymous browsing, web server scanning, fuzzing, report generating and more.
 
 
@@ -98,3 +92,5 @@ stebbproject@gmail.com
 
 Website
 ====
+
+http://owasp.github.io/AppSec-Browser-Bundle
