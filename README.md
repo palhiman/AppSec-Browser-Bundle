@@ -1,4 +1,4 @@
-STeBB
+AppSec Browser Bundle
 =====
 
 <br>
@@ -6,12 +6,12 @@ STeBB
 <img src="https://lh5.googleusercontent.com/-vXbZPcDc5mxhJOZW71t5ALskhmt8wJkUVKaSzfdibk=w276-h207-p-no" width="300px;" height="225px"; align="right" >
 
 
-STeBB (Security Testing Browser Bundle ) is an open source Linux based penetration testing browser bundle built over Mozilla Firefox. It comes pre-configured with security tools for spidering, advanced web searching, fingerprinting, anonymous browsing, web server scanning, fuzzing, report generating and more.
+The OWASP AppSec Browser Bundle is an open source Linux based penetration testing browser bundle built over Mozilla Firefox. It comes pre-configured with security tools for spidering, advanced web searching, fingerprinting, anonymous browsing, web server scanning, fuzzing, report generating and more.
 
 
-Why STeBB
+Why? 
 ====
-STeBB marks the beginning of a new webapp security testing method. Born as a fork of PenQ, from the developers of PenQ, this browser bundle was created to detach the security testing browser's affiliation with any organisation. This would now be the home where future development would continue.
+The OWASP AppSec Browser Bundle marks the beginning of a new webapp security testing method. Born as a fork of PenQ, from the developers of PenQ, this browser bundle was created to detach the security testing browser's affiliation with any organisation. This would now be the home where future development would continue.
 
 Included Tools
 ====
@@ -98,4 +98,3 @@ stebbproject@gmail.com
 
 Website
 ====
-www.stebb.org
